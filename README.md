@@ -13,7 +13,7 @@ and include ```engine.h``` file
 ```cpp
 #include "engine.h"
 ```
-After, create main method, where we create window, and draw cube, that can walk, using arrow keys
+After, create main method, where we create window, with loop
 ```cpp
 
 int main()
